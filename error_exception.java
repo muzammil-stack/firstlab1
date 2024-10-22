@@ -17,6 +17,8 @@ class students{
 		
 		finally {
 		
+			
+			System.out.println("this student passed his exam with" +marks + "marks");
 			System.out.println("this student passed his exam with" +marks + "marks");
 		
 		}
